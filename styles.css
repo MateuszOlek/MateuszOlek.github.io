@@ -5,7 +5,6 @@ body{
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
-  min-width: 1000px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -17,7 +16,7 @@ body{
 }
 
 .flex-item{
-  width: 1200px;
+  width: 95vw;;
   background-color: rgba(200,200,200,0.85);
   margin: 20px;
 }
@@ -26,7 +25,7 @@ body{
   font-family: "Monstarrat", sans-serif;
 }
 .img-60{
-  width: 60%;
+  width: 60vw;
 }
 h2{
   text-align:center;
@@ -41,5 +40,5 @@ h2{
   width:90%;
   height:auto;
   margin:15px;
-  max-width:400px;
+  max-width:30vw;
 }
